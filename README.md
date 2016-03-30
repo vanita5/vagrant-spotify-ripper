@@ -2,6 +2,11 @@
 
 Made with :heart: for [pertinaxo](https://twitter.com/pertinaxo)
 
+## Installation
+
+1. Install [Virtualbox](https://www.virtualbox.org/)
+2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
+
 ## Usage
 
 Download an application key file spotify_appkey.key from https://devaccount.spotify.com/my-account/keys/ 
